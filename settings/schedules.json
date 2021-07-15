@@ -1,0 +1,15 @@
+{
+    "feed43": {
+        "refreshRateMinutes": 100,
+        "keywords": [
+            "feed43",
+            "feed43.com"
+        ]
+    },
+    "rssbox": {
+        "refreshRateMinutes": 180,
+        "keywords": [
+            "https://rssbox.ambler.kr/instagram/"
+        ]
+    }
+}
